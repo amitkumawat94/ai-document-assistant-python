@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+fastembed
+qdrant-client
+groq
+python-dotenv
+pydantic-settings
+httpx
